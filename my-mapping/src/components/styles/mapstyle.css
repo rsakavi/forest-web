@@ -1,0 +1,24 @@
+*,*::after, *::before{
+    margin: 0;
+    box-sizing: border-block
+}
+html{
+    font-size: 62.5%;
+}
+
+section{
+    border: 10px gray;
+    height: 90vh;
+}
+.container{
+    border: 40px gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+div section div{
+    border: 10px gray;
+    height: 90vh;
+    font-size: 100%;
+}
