@@ -7,7 +7,7 @@ Proyecto enfocado en mejorar la adopción de la adquisición de bonos de carbón
 Utilizar el gestor de paquetes [npm](https://www.npmjs.com/) para instalar la aplicación.
 
 ```bash
-cd forest-app
+cd forest-web
 npm start
 ```
 
